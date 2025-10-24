@@ -15,6 +15,9 @@ mockitoKotlin = "6.1.0"
 okhttp = "5.2.1"
 profileinstaller = "1.4.1"
 retrofit = "3.0.0"
+roomCompiler = "2.8.3"
+roomKtx = "2.8.3"
+roomRuntime = "2.8.3"
 truth = "1.4.5"
 turbine = "1.2.1"
 hiltAndroid = "2.57.2"
@@ -31,6 +34,9 @@ workTesting = "2.11.0"
 androidx-compose-material-icons-extended = { module = "androidx.compose.material:material-icons-extended" }
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 androidx-profileinstaller = { module = "androidx.profileinstaller:profileinstaller", version.ref = "profileinstaller" }
+androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomCompiler" }
+androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomKtx" }
+androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomRuntime" }
 androidx-work-runtime-ktx = { module = "androidx.work:work-runtime-ktx", version.ref = "workRuntimeKtx" }
 converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGsonVersion" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
